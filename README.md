@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Cody</h1>
+<h3 align="center">An American software engineer living in Colombia. I have 3 years of experience writing production SaaS products. My experience in the industyr leans towards the frontend. The stack I have the most experience with is Apollo/GraphQL/React/TypeScript.</h3>
 
-<!--
-**rockchalkwushock/rockchalkwushock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Elixir, Ecto, Phoenix, and Docker**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://codybrunner.dev/projects](https://codybrunner.dev/projects)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I regularly write articles on [https://codybrunner.dev/blog](https://codybrunner.dev/blog)
+
+- 💬 Ask me about **GraphQL, JavaScript, React, TypeScript**
+
+- 📫 How to reach me [https://codybrunner.dev/contact](https://codybrunner.dev/contact)
+
+- 📄 Know about my experiences [https://codybrunner.dev/CodyBrunner.pdf](https://codybrunner.dev/CodyBrunner.pdf)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rockchalkdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rockchalkdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/codybrunner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codybrunner" height="30" width="40" /></a>
+<a href="https://instagram.com/rockchalkwushock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rockchalkwushock" height="30" width="40" /></a>
+</p>
