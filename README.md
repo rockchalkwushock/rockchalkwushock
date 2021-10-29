@@ -5,15 +5,15 @@
 
 - 👨🏻‍💻 I currently work for [LeanTech.io](https://www.leangroup.com/solutions/leantech) as a Senior Developer
 
-- 💻 All of my projects are available at [https://codybrunner.dev/projects](https://codybrunner.dev/projects)
+- 💻 All of my projects are available at [https://codybrunner.com/projects](https://codybrunner-dev.vercel.app/projects)
 
-- 📝 I regularly write articles on [https://codybrunner.dev/blog](https://codybrunner.dev/blog)
+- 📝 I regularly write articles on [https://codybrunner.com/blog](https://codybrunner-dev.vercel.app/blog)
 
 - 💬 Ask me about **GraphQL, JavaScript, React, TypeScript**
 
-- 📫 How to reach me [https://codybrunner.dev/contact](https://codybrunner.dev/contact)
+- 📫 How to reach me [https://codybrunner.com/contact](https://codybrunner-dev.vercel.app/contact)
 
-- 📄 Know about my experiences [https://codybrunner.dev/CodyBrunner.pdf](https://codybrunner.dev/CodyBrunner.pdf)
+- 📄 Know about my experiences [https://codybrunner.com/CodyBrunner.pdf](https://codybrunner-dev.vercel.app/CodyBrunner.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
