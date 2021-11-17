@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cody</h1>
-<h3 align="center">An American software engineer living in Colombia. I have 3 years of experience writing production SaaS products. My experience in the industry leans towards the frontend. The stack I have the most experience with is Apollo/GraphQL/React/TypeScript.</h3>
+<h3 align="center">An American software developer living in Colombia. I have 3 years of experience writing production SaaS products. My experience in the industry leans towards the frontend. The stack I have the most experience with is Apollo/GraphQL/React/TypeScript.</h3>
 
-- 🌱 I’m currently learning **Elixir, Ecto, Phoenix, and Docker**
+- 🌱 I’m currently learning **AWS, Docker, Elixir, Ecto, Phoenix, and Phoenix LiveView**
 
 - 👨🏻‍💻 I currently work for [LeanTech.io](https://www.leangroup.com/solutions/leantech) as a Senior Developer
 
