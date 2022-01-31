@@ -17,6 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ectogram: Testing Ecto](https://codybrunner.com/blog/2022/ectogram/04-testing-ecto)
+- [Ectogram: Generating The Users Table](https://codybrunner.com/blog/2022/ectogram/03-generating-the-users-table)
+- [Ectogram: Setting Up Ecto](https://codybrunner.com/blog/2022/ectogram/02-setting-up-ecto)
+- [Ectogram: Introduction](https://codybrunner.com/blog/2022/ectogram/01-introduction)
+- [A Far Too In-Depth Guide To SSH For Web Developers](https://codybrunner.com/blog/2022/a-far-too-in-depth-guide-to-ssh-for-web-developers)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
