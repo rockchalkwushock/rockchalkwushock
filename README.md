@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cody</h1>
-<h3 align="center">An American software developer living in Colombia.</h3>
+<!-- <h3 align="center">An American software developer</h3> -->
 
 - 🌱 I’m currently learning **AWS, Docker, Elixir, Ecto, Phoenix, and Phoenix LiveView**
 
-- 👨🏻‍💻 I currently work for [LeanTech.io](https://www.leangroup.com/solutions/leantech) as a Senior Developer.
+- 👨🏻‍💻 I currently work as a freelance developer.
 
 - 💻 All of my projects are available at [https://github.com/rockchalkwushock](https://github.com/rockchalkwushock).
 
