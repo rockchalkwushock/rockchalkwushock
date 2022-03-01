@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS, Docker, Elixir, Ecto, Phoenix, and Phoenix LiveView**
 
-- 👨🏻‍💻 I currently work for [Appointlet](https://www.appointlet.com/) as a Frontend Developer.
+<!-- - 👨🏻‍💻 I currently work for [Appointlet](https://www.appointlet.com/) as a Frontend Developer. -->
 
 - 💻 All of my projects are available at [https://github.com/rockchalkwushock](https://github.com/rockchalkwushock).
 
