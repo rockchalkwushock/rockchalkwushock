@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Cody</h1>
-<!-- <h3 align="center">An American software developer</h3> -->
 
-- 🌱 I’m currently learning **AWS, Docker, Elixir, Ecto, Phoenix, and Phoenix LiveView**
+I am a US Citizen, US Navy Veteran, and Jayhawk from the sticks of Kansas living in Colombia. In my day job you will find me working with Django, GraphQL, Hasura, React, TailwindCSS, & TypeScript. In my free time I am playing with my dog, reading, smoking ribs or brisket, programming in Elixir and Rust, tinkering around with my Raspberry Pi Cluster, and generally saying everything wrong in Spanish as I learn the language.
 
-<!-- - 👨🏻‍💻 I currently work for [Appointlet](https://www.appointlet.com/) as a Frontend Developer. -->
+*   🌍  I'm based in Colombia
+*   🖥️  See my portfolio at [https://codybrunner.com](http://codybrunner.com)
+*   📝  I regularly write articles on [https://codybrunner.com/blog](https://codybrunner.com/blog)
+*   ✉️  You can contact me at [me@codybrunner.com](mailto:me@codybrunner.com)
+*   🚀  I'm currently working on [Appointlet](http://appointlet.com)
+*   🧠  I'm learning Elixir, Phoenix, Rust
+*   📄  Know about my experiences [https://codybrunner.com/resume.pdf](https://codybrunner.com/resume.pdf)
+*   📫  Want to chat? Book a time with me using [Appointlet](https://appt.link/cody-brunner-dev)
 
-- 💻 All of my projects are available at [https://github.com/rockchalkwushock](https://github.com/rockchalkwushock).
-
-- 📝 I regularly write articles on [https://codybrunner.com/blog](https://codybrunner.com/blog)
-
-- 💬 Ask me about **GraphQL, JavaScript, React, TypeScript**
-
-- 📫 Want to chat? Book a time with me using [Appointlet](https://appt.link/cody-brunner-dev)
-
-- 📄 Know about my experiences [https://codybrunner.com/resume.pdf](https://codybrunner.com/resume.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,10 +22,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rockchalkdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rockchalkdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cody-brunner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cody-brunner" height="30" width="40" /></a>
-<a href="https://instagram.com/rockchalkwushock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rockchalkwushock" height="30" width="40" /></a>
-<a href="https://codybrunner.com/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://codybrunner.com/feed.xml" height="30" width="40" /></a>
-</p>
+
+<p align="left"> <a href="https://www.github.com/rockchalkwushock" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rockchalkwushock" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cody-brunner" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/RockChalkDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
