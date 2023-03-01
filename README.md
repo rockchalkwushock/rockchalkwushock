@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cody</h1>
 
-I am a US Citizen, US Navy Veteran, and Jayhawk from the sticks of Kansas living in Colombia. In my day job you will find me working with Django, GraphQL, Hasura, React, TailwindCSS, & TypeScript. In my free time I am playing with my dog, reading, smoking ribs or brisket, programming in Elixir and Rust, tinkering around with my Raspberry Pi Cluster, and generally saying everything wrong in Spanish as I learn the language.
+I am an American software developer and US Navy veteran hailing from Kansas. I now live in Colombia (the country, not a city in the USA) with my wife and golden boy doggo son.
+I have 5 years of experience designing, building, shipping, and maintaining production ready SaaS products. My experience ranges markets in scheduling, logistics, automation, and crypto-currency/fin-tech. I primarily works with React and TypeScript but have experience with a variety of other technologies including but not limited too: Elixir, GraphQL, NodeJS, PostgreSQL, Python, and Rust.
+In my free time my hobbies include reading, running, hiking, playing guitar, weight lifting, Brazilian Jiu-Jitsu, smoking meats & cheeses, tinkering around with IoT devices, walking & playing with my dog, taking my wife out on fancy coffee dates, and enjoying some top shelf whisky while watching my Kansas Jayhawks cut down the nets in April.
 
 *   🌍  I'm based in Colombia
 *   🖥️  See my portfolio at [https://codybrunner.com](http://codybrunner.com)
 *   ✉️  You can contact me at [me@codybrunner.com](mailto:me@codybrunner.com)
-*   🚀  I'm currently working on [Appointlet](http://appointlet.com)
+*   🚀  I'm currently working on [Bitcoin IRA](https://bitcoinira.com)
 *   🧠  I'm learning Elixir, Phoenix, Rust
 *   📄  Know about my experiences [https://codybrunner.com/resume.pdf](https://codybrunner.com/resume.pdf)
 *   📫  Want to chat? Book a time with me using [Appointlet](https://appt.link/cody-brunner-dev)
