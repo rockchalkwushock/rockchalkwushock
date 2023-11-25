@@ -6,7 +6,7 @@ I am a Christian, US Navy Veteran, Jayhawk, and an American expat living outside
 *   🖥️  See my portfolio at [https://codybrunner.com](http://codybrunner.com)
 *   ✉️  You can contact me at [me@codybrunner.com](mailto:me@codybrunner.com)
 *   🚀  I'm currently working on [Bitcoin IRA](https://bitcoinira.com)
-*   🧠  I'm learning Go
+*   🧠  I'm learning Go, guitar, & Spanish
 *   📄  Know about my experiences [https://codybrunner.com/resume.pdf](https://codybrunner.com/resume.pdf)
 *   📫  Want to chat? Book a time with me using [Appointlet](https://appt.link/cody-brunner-dev)
 
