@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cody</h1>
 
-<h3 align="center">I am a Christian, US Navy Veteran, Jayhawk, and an American expat living outside of Bogotá, Colombia. I work as a Senior Frontend Developer at Bitcoin IRA, where we are pioneering the world's first and most trusted crypto IRA platform. When I am not working I can be found in the gym, teaching myself guitar, exploring Colombia, or smoking some brisket or ribs.</h3>
+<h3 align="center">I am a Christian, US Navy Veteran, Jayhawk, and an American expat living outside of Bogotá, Colombia. I work as a Senior Frontend Developer at WAO Holdings, where we are pioneering the world's first and most trusted crypto IRA platform. When I am not working I can be found in the gym, teaching myself guitar, exploring Colombia, or smoking some brisket or ribs.</h3>
 
 - 🌍 I'm based in Colombia
-- 🔭 I’m currently working on [Bitcoin IRA](https://bitcoinira.com)
+- 🔭 I’m currently working on [WAO Holdings](https://bitcoinira.com)
 - 🌱 I’m currently learning **Go, Guitar, and Spanish**
 - 🖥️ See my portfolio at [https://codybrunner.com/projects](http://codybrunner.com/projects)
 - ✉️ You can contact me at [me@codybrunner.com](mailto:me@codybrunner.com)
