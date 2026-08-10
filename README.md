@@ -12,11 +12,11 @@
 <h3 align="left">Latest from the blog:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing A Tree Walking Evaluator](https://codybrunner.com/articles/2026/writing-a-tree-walking-evaluator/)
 - [Hey Old Man](https://codybrunner.com/articles/2026/hey-old-man/)
 - [Writing a Pratt Parser](https://codybrunner.com/articles/2026/writing-a-pratt-parser/)
 - [Writing a Lexer](https://codybrunner.com/articles/2026/writing-a-lexer/)
 - [Five Books to Build One Toy Language](https://codybrunner.com/articles/2026/five-books-to-build-one-toy-language/)
-- [Turns Out Being A Gringo Is A Marketable Skill](https://codybrunner.com/articles/2026/turns-out-being-a-gringo-is-a-marketable-skill/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><a href="https://codybrunner.com/articles/">→ More on the blog</a></p>
